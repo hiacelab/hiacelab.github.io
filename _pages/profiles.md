@@ -2,27 +2,42 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: members of the HiACE Lab
 nav: true
-nav_order: 7
+nav_order: 2
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: nade_liang.jpg
+    content: nade_liang.md
+    image_circular: false
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Director, HiACE Lab</p>
+      <p>Texas Tech University</p>
+      <p>Human Factors • Autonomous Driving • Cognitive Engineering</p>
+
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: kaiser_hamid.jpg
+    content: kaiser_hamid.md
+    image_circular: false
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>PhD Student</p>
+      <p>HiACE Lab, Texas Tech University</p>
+      <p>Human-centered autonomous driving • Vision-language driving</p>
+
+  - align: right
+    image: peihang_li.jpg
+    content: peihang_li.md
+    image_circular: false
+    more_info: >
+      <p>PhD Student</p>
+      <p>HiACE Lab, Texas Tech University</p>
+
+  - align: left
+    image: kayloni_hartsfield.jpg
+    content: kayloni_hartsfield.md
+    image_circular: false
+    more_info: >
+      <p>Undergraduate Researcher</p>
+      <p>HiACE Lab, Texas Tech University</p>
 ---
