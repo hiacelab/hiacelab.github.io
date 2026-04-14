@@ -1,0 +1,1 @@
+Kaiser Hamid is a PhD student in the HiACE Lab at Texas Tech University. His research interests include autonomous driving, computer vision, multimodal learning, and human-centered AI. He works on problems related to vision-language-action models, driver attention, interpretability, and robust evaluation of autonomous systems.
