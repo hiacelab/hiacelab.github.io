@@ -1,0 +1,1 @@
+Kayloni Hartsfield is an undergraduate researcher in the Human-in-the-loop Advanced Cognitive Engineering (HiACE) Lab at Texas Tech University. Her work contributes to the lab’s research in autonomous driving, human factors, and cognitive engineering.

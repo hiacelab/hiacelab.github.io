@@ -1,0 +1,1 @@
+Peihang Li is a PhD student in the Human-in-the-loop Advanced Cognitive Engineering (HiACE) Lab at Texas Tech University. His research contributes to the lab’s work in autonomous driving, human factors, and cognitive engineering.
