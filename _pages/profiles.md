@@ -17,9 +17,10 @@ profiles:
   - align: left
     image: kaiser_hamid.JPG
     content: kaiser_hamid.md
-    image_circular: true
+    image_circular: false
     more_info: >
       <p>PhD Student</p>
+      <p>Fall'24-Current</p>
 
   - align: right
     image: peihang_li.jpg
@@ -27,11 +28,13 @@ profiles:
     image_circular: false
     more_info: >
       <p>PhD Student</p>
+       <p>Fall'24-Current</p>
 
   - align: left
     image: kayloni_hartsfield.jpg
     content: kayloni_hartsfield.md
     image_circular: false
     more_info: >
-      <p>Undergraduate Researcher</p>
+      <p>Undergraduate Student</p>
+       <p>Spring'26-Current</p>
 ---
