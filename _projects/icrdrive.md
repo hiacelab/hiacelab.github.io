@@ -2,7 +2,7 @@
 layout: page
 title: ICR-Drive
 description: Instruction Counterfactual Robustness for End-to-End Language-Driven Autonomous Driving
-img: assets/img/icrdrive.jpg
+img: assets/img/icrdrive.png
 importance: 1
 category: research
 related_publications: false
