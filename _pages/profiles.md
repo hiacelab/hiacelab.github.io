@@ -20,7 +20,7 @@ profiles:
     image_circular: false
     more_info: >
       <p>PhD Student</p>
-      <p>Fall'24-Current</p>
+      <p>(Fall'24-Current)</p>
 
   - align: right
     image: peihang_li.jpg
@@ -28,7 +28,7 @@ profiles:
     image_circular: false
     more_info: >
       <p>PhD Student</p>
-       <p>Fall'24-Current</p>
+       <p>(Fall'24-Current)</p>
 
   - align: left
     image: kayloni_hartsfield.jpg
@@ -36,5 +36,5 @@ profiles:
     image_circular: false
     more_info: >
       <p>Undergraduate Student</p>
-       <p>Spring'26-Current</p>
+       <p>(Spring'26-Current)</p>
 ---
