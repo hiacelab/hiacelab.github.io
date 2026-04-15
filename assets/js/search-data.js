@@ -416,7 +416,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-icr-drive",
+          section: "News",},{id: "projects-fsdam",
+          title: 'FSDAM',
+          description: "Explainable driver attention modeling with vision-language learning",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/fsdam/";
+            },},{id: "projects-icr-drive",
           title: 'ICR-Drive',
           description: "Instruction Counterfactual Robustness for End-to-End Language-Driven Autonomous Driving",
           section: "Projects",handler: () => {
