@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
@@ -23,7 +23,7 @@ latest_posts:
   limit: 3
 ---
 
-Welcome to the official w of the **Human-in-the-loop Advanced Cognitive Engineering (HiACE) Lab** at **Texas Tech University**.
+Welcome to the official website of the **Human-in-the-loop Advanced Cognitive Engineering (HiACE) Lab** at **Texas Tech University**.
 
 HiACE Lab conducts research at the intersection of **autonomous driving**, **human factors**, and **cognitive engineering**. We develop human-centered methods for modeling behavior, attention, cognition, and interaction in order to design safer, more reliable, and more interpretable autonomous systems.
 
@@ -33,4 +33,4 @@ Through this work, we aim to advance autonomous driving systems that are not onl
 
 We welcome motivated students and collaborators who are interested in autonomous driving, human factors, human-AI interaction, and cognitive engineering.
 
-
+{% include figure.liquid loading="eager" path="assets/img/team_photo.jpg" class="img-fluid rounded z-depth-1" style="width: 60%; margin: 0 auto; display: block;" %}
