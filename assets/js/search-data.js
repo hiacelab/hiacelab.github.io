@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-news",
+          title: "news",
+          description: "news and updates from the HiACE Lab",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
+          },
         },{id: "nav-submenus",
           title: "submenus",
           description: "",
