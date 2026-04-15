@@ -408,10 +408,70 @@ ninja.data = [{
             },},{id: "news-asymmetric-shifts-in-risk-perception-evaluating-driver-responses-to-traffic-density-transitions-was-accepted-to-hfes-2025",
           title: 'Asymmetric Shifts in Risk Perception: Evaluating Driver Responses to Traffic Density Transitions was...',
           description: "",
-          section: "News",},{id: "news-icr-drive-instruction-counterfactual-robustness-for-end-to-end-language-driven-autonomous-driving-was-accepted-to-a-cvpr-2026-workshop",
+          section: "News",},{id: "news-kaiser-hamid-to-present-at-the-69th-hfes-international-annual-meeting",
+          title: 'Kaiser Hamid to Present at the 69th HFES International Annual Meeting',
+          description: "Upcoming HFES 2025 presentation by Kaiser Hamid",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-10-12-kaiser-to-present-at-hfes-2025/";
+            },},{id: "news-kaiser-hamid-to-present-at-the-105th-trb-annual-meeting",
+          title: 'Kaiser Hamid to Present at the 105th TRB Annual Meeting',
+          description: "Upcoming TRB 2026 presentation by Kaiser Hamid",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-10-12-kaiser-to-present-at-trb-2026/";
+            },},{id: "news-kaiser-hamid-presented-at-the-104th-trb-annual-meeting-2025",
+          title: 'Kaiser Hamid Presented at the 104th TRB Annual Meeting 2025',
+          description: "Kaiser presented GLH-based travel behavior research at TRB 2025",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-10-12-kaiser-trb-2025-presented/";
+            },},{id: "news-peihang-li-named-2025-lifesavers-traffic-safety-scholar",
+          title: 'Peihang Li Named 2025 Lifesavers Traffic Safety Scholar',
+          description: "Peihang selected as a 2025 Lifesavers Traffic Safety Scholar",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-10-12-peihang-lifesavers-scholar/";
+            },},{id: "news-peihang-li-receives-pptg-student-research-grant",
+          title: 'Peihang Li Receives PPTG Student Research Grant',
+          description: "Peihang received the HFES PPTG Student Research Grant",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-10-12-peihang-pptg-grant/";
+            },},{id: "news-peihang-li-to-present-at-the-69th-hfes-international-annual-meeting",
+          title: 'Peihang Li to Present at the 69th HFES International Annual Meeting',
+          description: "Upcoming HFES 2025 presentation by Peihang Li",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-10-12-peihang-to-present-at-hfes-2025/";
+            },},{id: "news-kaiser-hamid-receives-hfes-actg-student-research-grant",
+          title: 'Kaiser Hamid Receives HFES ACTG Student Research Grant',
+          description: "Kaiser received honorable mention for the HFES ACTG Student Research Grant",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-10-13-kaiser-hfes-actg-grant/";
+            },},{id: "news-hiace-lab-presents-and-receives-recognition-at-hfes-2025",
+          title: 'HiACE Lab Presents and Receives Recognition at HFES 2025',
+          description: "HiACE Lab activities and recognition at the 69th HFES Annual Meeting",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-10-27-hiace-lab-at-hfes-2025/";
+            },},{id: "news-kaiser-hamid-presents-at-the-105th-trb-annual-meeting-in-washington-d-c",
+          title: 'Kaiser Hamid Presents at the 105th TRB Annual Meeting in Washington, D.C.',
+          description: "Kaiser presented driver attention research at TRB 2026",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-01-15-kaiser-at-105th-trb/";
+            },},{id: "news-kaiser-amp-peihang-share-their-latest-work-in-engineering-research-day",
+          title: 'Kaiser &amp;amp; Peihang Share Their Latest Work in Engineering Research Day',
+          description: "HiACE Lab spotlight at Texas Tech Engineering Research Day",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-02-10-engineering-research-day/";
+            },},{id: "news-icr-drive-instruction-counterfactual-robustness-for-end-to-end-language-driven-autonomous-driving-was-accepted-to-a-cvpr-2026-workshop",
           title: 'ICR-Drive: Instruction Counterfactual Robustness for End-to-End Language-Driven Autonomous Driving was accepted to a...',
           description: "",
-          section: "News",},{id: "news-welcome-to-the-official-launch-of-the-hiace-lab-website",
+          section: "News",},{id: "news-preprint-fsdam-few-shot-driver-attention-modeling",
+          title: '[Preprint] FSDAM — Few-Shot Driver Attention Modeling',
+          description: "New preprint and project page for FSDAM",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-03-13-fsdam-preprint/";
+            },},{id: "news-publication-icr-drive-accepted-to-cvpr-2026-workshop",
+          title: '[Publication] ICR-Drive Accepted to CVPR 2026 Workshop',
+          description: "ICR-Drive accepted to CVPR 2026 Workshop on Deployment of Foundation Models for Embodied AI",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-03-23-icr-drive-accepted-to-cvpr-2026-workshop/";
+            },},{id: "news-welcome-to-the-official-launch-of-the-hiace-lab-website",
           title: 'Welcome to the official launch of the HiACE Lab website.',
           description: "",
           section: "News",},{id: "projects-fsdam",
