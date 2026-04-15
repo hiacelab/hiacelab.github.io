@@ -412,16 +412,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-announcement-1",
-          title: 'Announcement_1',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
             },},{id: "news-asymmetric-shifts-in-risk-perception-evaluating-driver-responses-to-traffic-density-transitions-was-accepted-to-hfes-2025",
           title: 'Asymmetric Shifts in Risk Perception: Evaluating Driver Responses to Traffic Density Transitions was...',
           description: "",
-          section: "News",},{id: "news-asymmetric-shifts-in-risk-perception-evaluating-driver-responses-to-traffic-density-transitions-was-accepted-to-hfes-2025",
-          title: 'Asymmetric Shifts in Risk Perception: Evaluating Driver Responses to Traffic Density Transitions was...',
+          section: "News",},{id: "news-icr-drive-instruction-counterfactual-robustness-for-end-to-end-language-driven-autonomous-driving-was-accepted-to-a-cvpr-2026-workshop",
+          title: 'ICR-Drive: Instruction Counterfactual Robustness for End-to-End Language-Driven Autonomous Driving was accepted to a...',
+          description: "",
+          section: "News",},{id: "news-welcome-to-the-official-launch-of-the-hiace-lab-website",
+          title: 'Welcome to the official launch of the HiACE Lab website.',
           description: "",
           section: "News",},{id: "projects-fsdam",
           title: 'FSDAM',
