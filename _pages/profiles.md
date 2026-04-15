@@ -17,7 +17,7 @@ profiles:
       <p>Human Factors • Autonomous Driving • Cognitive Engineering</p>
 
   - align: left
-    image: kaiser_hamid.jpg
+    image: kaiser_hamid.JPG
     content: kaiser_hamid.md
     image_circular: false
     more_info: >
