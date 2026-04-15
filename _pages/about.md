@@ -37,4 +37,4 @@ Through this work, we aim to advance autonomous driving systems that are not onl
 
 We welcome motivated students and collaborators who are interested in autonomous driving, human factors, human-AI interaction, and cognitive engineering.
 
-{% include figure.liquid loading="eager" path="assets/img/team_photo.jpg" class="img-fluid rounded z-depth-1" style="width: 60%; margin: 0 auto; display: block;" %}
+
