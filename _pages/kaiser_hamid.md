@@ -5,4 +5,4 @@ His current work focuses on vision-language-action models, driver attention mode
 Outside research, he enjoys driving, traveling, and exploring new places. These interests continue to shape his perspective on mobility, interaction, and intelligent transportation.
 
 **Links**  
-<a href="https://kaiser-75.github.io/" target="_blank"><i class="fas fa-user"></i>Portfolio</a>
+<a href="https://kaiser-75.github.io/" target="_blank">Portfolio</a> · <a href="https://www.linkedin.com/in/kaiser-buet/" target="_blank">LinkedIn</a>
