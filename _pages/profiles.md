@@ -17,7 +17,7 @@ profiles:
   - align: left
     image: kaiser_hamid.JPG
     content: kaiser_hamid.md
-    image_circular: false
+    image_circular: true
     more_info: >
       <p>PhD Student</p>
 
