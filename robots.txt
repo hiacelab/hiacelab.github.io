@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hiacelab.github.io/al-folio/sitemap.xml
+Sitemap: https://hiacelab.github.io/sitemap.xml
