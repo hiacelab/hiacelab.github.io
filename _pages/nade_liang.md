@@ -9,6 +9,6 @@ B.Eng., Transportation Science and Engineering, Beihang University (2017)
 
 **Links**  
 <a href="mailto:nade.liang@ttu.edu"><i class="fas fa-envelope"></i> Email</a> ·
-<a href="https://scholar.google.com/citations?user=w6e-GSgAAAAJ&hl=zh-TW" target="_blank"></i> Google Scholar</a> ·
-<a href="https://www.linkedin.com/in/nadeliang" target="_blank"></i>LinkedIn</a> ·
+<a href="https://scholar.google.com/citations?user=w6e-GSgAAAAJ&hl=zh-TW" target="_blank">Google Scholar</a> ·
+<a href="https://www.linkedin.com/in/nadeliang" target="_blank">LinkedIn</a> ·
 <a href="https://70a68ba5-b944-49d1-b3b3-15394e7812ba.filesusr.com/ugd/eeff53_6e23c9e3112c4251aef14085f22f221f.pdf" target="_blank"><i class="fas fa-file-pdf"></i> CV</a>
