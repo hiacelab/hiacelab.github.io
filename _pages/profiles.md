@@ -23,7 +23,7 @@ profiles:
       <p>(Fall'24-Current)</p>
 
   - align: right
-    image: peihang_li.jpg
+    image: peihang_li.heic
     content: peihang_li.md
     image_circular: false
     more_info: >
