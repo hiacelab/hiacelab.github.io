@@ -417,13 +417,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-asymmetric-shifts-in-risk-perception-evaluating-driver-responses-to-traffic-density-transitions-was-accepted-to-hfes-2025",
+          title: 'Asymmetric Shifts in Risk Perception: Evaluating Driver Responses to Traffic Density Transitions was...',
           description: "",
           section: "News",},{id: "projects-fsdam",
           title: 'FSDAM',
