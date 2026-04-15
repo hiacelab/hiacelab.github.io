@@ -2,7 +2,7 @@
 layout: page
 title: FSDAM
 description: Explainable driver attention modeling with vision-language learning
-img: assets/img/fsdam.jpg
+img: assets/img/fsdam.png
 importance: 2
 category: research
 related_publications: false
