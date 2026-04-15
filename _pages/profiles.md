@@ -13,8 +13,6 @@ profiles:
     image_circular: false
     more_info: >
       <p>Director, HiACE Lab</p>
-      <p>Texas Tech University</p>
-      <p>Human Factors • Autonomous Driving • Cognitive Engineering</p>
 
   - align: left
     image: kaiser_hamid.JPG
@@ -22,8 +20,6 @@ profiles:
     image_circular: false
     more_info: >
       <p>PhD Student</p>
-      <p>HiACE Lab, Texas Tech University</p>
-      <p>Human-centered autonomous driving • Vision-language driving</p>
 
   - align: right
     image: peihang_li.jpg
@@ -31,7 +27,6 @@ profiles:
     image_circular: false
     more_info: >
       <p>PhD Student</p>
-      <p>HiACE Lab, Texas Tech University</p>
 
   - align: left
     image: kayloni_hartsfield.jpg
@@ -39,5 +34,4 @@ profiles:
     image_circular: false
     more_info: >
       <p>Undergraduate Researcher</p>
-      <p>HiACE Lab, Texas Tech University</p>
 ---
