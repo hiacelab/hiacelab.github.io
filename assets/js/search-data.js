@@ -465,10 +465,7 @@ ninja.data = [{
           description: "ICR-Drive accepted to CVPR 2026 Workshop on Deployment of Foundation Models for Embodied AI",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-23-icr-drive-accepted-to-cvpr-2026-workshop/";
-            },},{id: "news-welcome-to-the-official-launch-of-the-hiace-lab-website",
-          title: 'Welcome to the official launch of the HiACE Lab website.',
-          description: "",
-          section: "News",},{id: "projects-fsdam",
+            },},{id: "projects-fsdam",
           title: 'FSDAM',
           description: "Explainable driver attention modeling with vision-language learning",
           section: "Projects",handler: () => {
