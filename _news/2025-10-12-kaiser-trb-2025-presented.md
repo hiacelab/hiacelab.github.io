@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Kaiser Hamid Presented at the 104th TRB Annual Meeting 2025"
-date: 2025-10-12 12:00:00-0500
+title: "[Presentation] Kaiser Hamid Presented at the 104th TRB Annual Meeting 2025"
+date: 2025-01-12 12:00:00-0500
 description: Kaiser presented GLH-based travel behavior research at TRB 2025
 img: assets/img/news/kaiser_trb_2025.jpg
 related_posts: false
