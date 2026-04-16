@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kaiser Hamid Receives HFES ACTG Student Research Grant"
+title: "[Award] Kaiser Hamid Receives HFES ACTG Student Research Grant"
 date: 2025-10-13 12:00:00-0500
 description: Kaiser received honorable mention for the HFES ACTG Student Research Grant
 img: assets/img/news/kaiser_actg_grant_2025.jpg
