@@ -415,8 +415,8 @@ ninja.data = [{
           description: "Upcoming HFES 2025 presentation by Kaiser Hamid",
           section: "News",handler: () => {
               window.location.href = "/news/2025-10-12-kaiser-to-present-at-hfes-2025/";
-            },},{id: "news-peihang-li-named-2025-lifesavers-traffic-safety-scholar",
-          title: 'Peihang Li Named 2025 Lifesavers Traffic Safety Scholar',
+            },},{id: "news-award-peihang-li-named-2025-lifesavers-traffic-safety-scholar",
+          title: '[Award] Peihang Li Named 2025 Lifesavers Traffic Safety Scholar',
           description: "Peihang selected as a 2025 Lifesavers Traffic Safety Scholar",
           section: "News",handler: () => {
               window.location.href = "/news/2025-10-12-peihang-lifesavers-scholar/";
