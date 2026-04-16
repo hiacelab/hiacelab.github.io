@@ -425,8 +425,8 @@ ninja.data = [{
           description: "Peihang selected as a 2025 Lifesavers Traffic Safety Scholar",
           section: "News",handler: () => {
               window.location.href = "/news/2025-10-12-peihang-lifesavers-scholar/";
-            },},{id: "news-peihang-li-receives-pptg-student-research-grant",
-          title: 'Peihang Li Receives PPTG Student Research Grant',
+            },},{id: "news-award-peihang-li-receives-pptg-student-research-grant",
+          title: '[Award] Peihang Li Receives PPTG Student Research Grant',
           description: "Peihang received the HFES PPTG Student Research Grant",
           section: "News",handler: () => {
               window.location.href = "/news/2025-10-12-peihang-pptg-grant/";
