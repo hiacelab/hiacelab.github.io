@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kaiser Hamid Presents at the 105th TRB Annual Meeting in Washington, D.C."
+title: "[Presentation] Kaiser Hamid Presents at the 105th TRB Annual Meeting in Washington, D.C."
 date: 2026-01-15 12:00:00-0600
 description: Kaiser presented driver attention research at TRB 2026
 img: assets/img/news/kaiser_trb_2026.jpg
