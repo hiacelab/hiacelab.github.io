@@ -10,7 +10,6 @@ profile:
   image_circular: false
   more_info: >
     <p>Texas Tech University</p>
-    <p>Human-in-the-loop Advanced Cognitive Engineering (HiACE) Lab</p>
     <p>Autonomous Driving • Human Factors • Cognitive Engineering</p>
 
 selected_papers: false
