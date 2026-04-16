@@ -458,10 +458,7 @@ ninja.data = [{
           description: "HiACE Lab spotlight at Texas Tech Engineering Research Day",
           section: "News",handler: () => {
               window.location.href = "/news/2026-02-10-engineering-research-day/";
-            },},{id: "news-icr-drive-instruction-counterfactual-robustness-for-end-to-end-language-driven-autonomous-driving-was-accepted-to-a-cvpr-2026-workshop",
-          title: 'ICR-Drive: Instruction Counterfactual Robustness for End-to-End Language-Driven Autonomous Driving was accepted to a...',
-          description: "",
-          section: "News",},{id: "news-preprint-fsdam-few-shot-driver-attention-modeling",
+            },},{id: "news-preprint-fsdam-few-shot-driver-attention-modeling",
           title: '[Preprint] FSDAM — Few-Shot Driver Attention Modeling',
           description: "New preprint and project page for FSDAM",
           section: "News",handler: () => {
