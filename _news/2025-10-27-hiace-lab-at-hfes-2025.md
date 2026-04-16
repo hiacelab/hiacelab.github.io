@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HiACE Lab Presents and Receives Recognition at HFES 2025"
+title: "[Spotlight] HiACE Lab Presents and Receives Recognition at HFES 2025"
 date: 2025-10-27 12:00:00-0500
 description: HiACE Lab activities and recognition at the 69th HFES Annual Meeting
 img: assets/img/news/hfes_2025_group.jpg
