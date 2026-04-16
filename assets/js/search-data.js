@@ -405,10 +405,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-asymmetric-shifts-in-risk-perception-evaluating-driver-responses-to-traffic-density-transitions-was-accepted-to-hfes-2025",
-          title: 'Asymmetric Shifts in Risk Perception: Evaluating Driver Responses to Traffic Density Transitions was...',
-          description: "",
-          section: "News",},{id: "news-kaiser-hamid-to-present-at-the-69th-hfes-international-annual-meeting",
+            },},{id: "news-kaiser-hamid-to-present-at-the-69th-hfes-international-annual-meeting",
           title: 'Kaiser Hamid to Present at the 69th HFES International Annual Meeting',
           description: "Upcoming HFES 2025 presentation by Kaiser Hamid",
           section: "News",handler: () => {
