@@ -34,7 +34,7 @@ Our research combines **simulation**, **behavioral and physiological sensing**, 
 
 Through this work, we aim to advance autonomous driving systems that are not only technically capable, but also better aligned with human needs, limitations, and real-world use.
 
-Recent work from the lab has been presented at venues including **CVPR**, **HFES**, and **TRB**.
+Recent work from the lab has been presented at venues including <a href="https://cvpr.thecvf.com/" target="_blank">CVPR</a>, <a href="https://www.hfes.org/" target="_blank">HFES</a>, and <a href="https://trb-annual-meeting.nationalacademies.org/" target="_blank">TRB</a>.
 
 <p style="color: #b22222;">We welcome motivated students and collaborators who are interested in autonomous driving, human factors, human-AI interaction, and cognitive engineering.</p>
 
