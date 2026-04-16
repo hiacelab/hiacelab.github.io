@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kaiser & Peihang Share Their Latest Work in Engineering Research Day"
+title: "[Spotlight] Kaiser & Peihang Share Their Latest Work in Engineering Research Day"
 date: 2026-02-10 12:00:00-0600
 description: HiACE Lab spotlight at Texas Tech Engineering Research Day
 img: assets/img/news/engineering_research_day_2026.jpg
