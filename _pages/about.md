@@ -8,6 +8,10 @@ profile:
   align: right
   image: hiace_logo.png
   image_circular: false
+  more_info: >
+    <p>Texas Tech University</p>
+    <p>Human-in-the-loop Advanced Cognitive Engineering (HiACE) Lab</p>
+    <p>Autonomous Driving • Human Factors • Cognitive Engineering</p>
 
 selected_papers: false
 social: false
@@ -31,6 +35,8 @@ Our research combines **simulation**, **behavioral and physiological sensing**, 
 
 Through this work, we aim to advance autonomous driving systems that are not only technically capable, but also better aligned with human needs, limitations, and real-world use.
 
-We welcome motivated students and collaborators who are interested in autonomous driving, human factors, human-AI interaction, and cognitive engineering.
+Recent work from the lab has been presented at venues including **CVPR**, **HFES**, and **TRB**.
+
+<p style="color: #b22222;">We welcome motivated students and collaborators who are interested in autonomous driving, human factors, human-AI interaction, and cognitive engineering.</p>
 
 {% include figure.liquid loading="eager" path="assets/img/team_photo.jpg" class="img-fluid rounded z-depth-1" style="width: 60%; margin: 0 auto; display: block;" %}
