@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Peihang Li Named 2025 Lifesavers Traffic Safety Scholar"
+title: "[Award] Peihang Li Named 2025 Lifesavers Traffic Safety Scholar"
 date: 2025-10-12 12:00:00-0500
 description: Peihang selected as a 2025 Lifesavers Traffic Safety Scholar
 img: assets/img/news/peihang_lifesavers_2025.jpg
