@@ -435,8 +435,8 @@ ninja.data = [{
           description: "Upcoming HFES 2025 presentation by Peihang Li",
           section: "News",handler: () => {
               window.location.href = "/news/2025-10-12-peihang-to-present-at-hfes-2025/";
-            },},{id: "news-kaiser-hamid-receives-hfes-actg-student-research-grant",
-          title: 'Kaiser Hamid Receives HFES ACTG Student Research Grant',
+            },},{id: "news-award-kaiser-hamid-receives-hfes-actg-student-research-grant",
+          title: '[Award] Kaiser Hamid Receives HFES ACTG Student Research Grant',
           description: "Kaiser received honorable mention for the HFES ACTG Student Research Grant",
           section: "News",handler: () => {
               window.location.href = "/news/2025-10-13-kaiser-hfes-actg-grant/";
