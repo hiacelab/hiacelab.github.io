@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Peihang Li Receives PPTG Student Research Grant"
+title: "[Award] Peihang Li Receives PPTG Student Research Grant"
 date: 2025-10-12 12:00:00-0500
 description: Peihang received the HFES PPTG Student Research Grant
 img: assets/img/news/peihang_pptg_grant_2025.jpg
