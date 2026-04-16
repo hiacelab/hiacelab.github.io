@@ -410,11 +410,6 @@ ninja.data = [{
           description: "Upcoming HFES 2025 presentation by Kaiser Hamid",
           section: "News",handler: () => {
               window.location.href = "/news/2025-10-12-kaiser-to-present-at-hfes-2025/";
-            },},{id: "news-kaiser-hamid-to-present-at-the-105th-trb-annual-meeting",
-          title: 'Kaiser Hamid to Present at the 105th TRB Annual Meeting',
-          description: "Upcoming TRB 2026 presentation by Kaiser Hamid",
-          section: "News",handler: () => {
-              window.location.href = "/news/2025-10-12-kaiser-to-present-at-trb-2026/";
             },},{id: "news-kaiser-hamid-presented-at-the-104th-trb-annual-meeting-2025",
           title: 'Kaiser Hamid Presented at the 104th TRB Annual Meeting 2025',
           description: "Kaiser presented GLH-based travel behavior research at TRB 2025",
