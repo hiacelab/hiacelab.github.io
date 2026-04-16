@@ -405,16 +405,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "news-presentation-kaiser-hamid-presented-at-the-104th-trb-annual-meeting-2025",
+          title: '[Presentation] Kaiser Hamid Presented at the 104th TRB Annual Meeting 2025',
+          description: "Kaiser presented GLH-based travel behavior research at TRB 2025",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-10-12-kaiser-trb-2025-presented/";
             },},{id: "news-presentation-kaiser-hamid-to-present-at-the-69th-hfes-international-annual-meeting",
           title: '[Presentation] Kaiser Hamid to Present at the 69th HFES International Annual Meeting',
           description: "Upcoming HFES 2025 presentation by Kaiser Hamid",
           section: "News",handler: () => {
               window.location.href = "/news/2025-10-12-kaiser-to-present-at-hfes-2025/";
-            },},{id: "news-kaiser-hamid-presented-at-the-104th-trb-annual-meeting-2025",
-          title: 'Kaiser Hamid Presented at the 104th TRB Annual Meeting 2025',
-          description: "Kaiser presented GLH-based travel behavior research at TRB 2025",
-          section: "News",handler: () => {
-              window.location.href = "/news/2025-10-12-kaiser-trb-2025-presented/";
             },},{id: "news-peihang-li-named-2025-lifesavers-traffic-safety-scholar",
           title: 'Peihang Li Named 2025 Lifesavers Traffic Safety Scholar',
           description: "Peihang selected as a 2025 Lifesavers Traffic Safety Scholar",
