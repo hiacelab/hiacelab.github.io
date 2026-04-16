@@ -450,8 +450,8 @@ ninja.data = [{
           description: "Kaiser presented driver attention research at TRB 2026",
           section: "News",handler: () => {
               window.location.href = "/news/2026-01-15-kaiser-at-105th-trb/";
-            },},{id: "news-kaiser-amp-peihang-share-their-latest-work-in-engineering-research-day",
-          title: 'Kaiser &amp;amp; Peihang Share Their Latest Work in Engineering Research Day',
+            },},{id: "news-spotlight-kaiser-amp-peihang-share-their-latest-work-in-engineering-research-day",
+          title: '[Spotlight] Kaiser &amp;amp; Peihang Share Their Latest Work in Engineering Research Day',
           description: "HiACE Lab spotlight at Texas Tech Engineering Research Day",
           section: "News",handler: () => {
               window.location.href = "/news/2026-02-10-engineering-research-day/";
