@@ -430,8 +430,8 @@ ninja.data = [{
           description: "Peihang received the HFES PPTG Student Research Grant",
           section: "News",handler: () => {
               window.location.href = "/news/2025-10-12-peihang-pptg-grant/";
-            },},{id: "news-peihang-li-to-present-at-the-69th-hfes-international-annual-meeting",
-          title: 'Peihang Li to Present at the 69th HFES International Annual Meeting',
+            },},{id: "news-presentation-peihang-li-to-present-at-the-69th-hfes-international-annual-meeting",
+          title: '[Presentation] Peihang Li to Present at the 69th HFES International Annual Meeting',
           description: "Upcoming HFES 2025 presentation by Peihang Li",
           section: "News",handler: () => {
               window.location.href = "/news/2025-10-12-peihang-to-present-at-hfes-2025/";
