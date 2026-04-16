@@ -440,8 +440,8 @@ ninja.data = [{
           description: "Kaiser received honorable mention for the HFES ACTG Student Research Grant",
           section: "News",handler: () => {
               window.location.href = "/news/2025-10-13-kaiser-hfes-actg-grant/";
-            },},{id: "news-hiace-lab-presents-and-receives-recognition-at-hfes-2025",
-          title: 'HiACE Lab Presents and Receives Recognition at HFES 2025',
+            },},{id: "news-spotlight-hiace-lab-presents-and-receives-recognition-at-hfes-2025",
+          title: '[Spotlight] HiACE Lab Presents and Receives Recognition at HFES 2025',
           description: "HiACE Lab activities and recognition at the 69th HFES Annual Meeting",
           section: "News",handler: () => {
               window.location.href = "/news/2025-10-27-hiace-lab-at-hfes-2025/";
