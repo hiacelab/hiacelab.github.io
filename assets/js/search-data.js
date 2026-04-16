@@ -445,8 +445,8 @@ ninja.data = [{
           description: "HiACE Lab activities and recognition at the 69th HFES Annual Meeting",
           section: "News",handler: () => {
               window.location.href = "/news/2025-10-27-hiace-lab-at-hfes-2025/";
-            },},{id: "news-kaiser-hamid-presents-at-the-105th-trb-annual-meeting-in-washington-d-c",
-          title: 'Kaiser Hamid Presents at the 105th TRB Annual Meeting in Washington, D.C.',
+            },},{id: "news-presentation-kaiser-hamid-presents-at-the-105th-trb-annual-meeting-in-washington-d-c",
+          title: '[Presentation] Kaiser Hamid Presents at the 105th TRB Annual Meeting in Washington, D.C....',
           description: "Kaiser presented driver attention research at TRB 2026",
           section: "News",handler: () => {
               window.location.href = "/news/2026-01-15-kaiser-at-105th-trb/";
