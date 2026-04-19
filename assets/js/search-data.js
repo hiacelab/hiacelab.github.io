@@ -475,6 +475,11 @@ ninja.data = [{
           description: "Vision-language-action models for autonomous driving",
           section: "Projects",handler: () => {
               window.location.href = "/projects/icrdrive/";
+            },},{id: "projects-driver-risk-perception-and-behavioral-adaptation",
+          title: 'Driver Risk Perception and Behavioral Adaptation',
+          description: "Human factors research on driver risk perception, adaptation, and behavior in automated driving",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/risk/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
