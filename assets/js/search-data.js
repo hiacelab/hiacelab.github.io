@@ -410,8 +410,8 @@ ninja.data = [{
           description: "Kaiser presented GLH-based travel behavior research at TRB 2025",
           section: "News",handler: () => {
               window.location.href = "/news/2025-10-12-kaiser-trb-2025-presented/";
-            },},{id: "news-acceptance-kaiser-hamid-to-present-at-the-69th-hfes-international-annual-meeting",
-          title: '[Acceptance] Kaiser Hamid to Present at the 69th HFES International Annual Meeting',
+            },},{id: "news-presentation-kaiser-hamid-to-present-at-the-69th-hfes-international-annual-meeting",
+          title: '[Presentation] Kaiser Hamid to Present at the 69th HFES International Annual Meeting',
           description: "Upcoming HFES 2025 presentation by Kaiser Hamid",
           section: "News",handler: () => {
               window.location.href = "/news/2025-10-12-kaiser-to-present-at-hfes-2025/";
