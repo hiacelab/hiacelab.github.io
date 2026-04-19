@@ -464,7 +464,7 @@ ninja.data = [{
           title: '[Acceptance] Two HiACE Lab Papers Accepted to HFES ASPIRE 2026',
           description: "Two HiACE Lab lecture presentations accepted to HFES ASPIRE 2026",
           section: "News",handler: () => {
-              window.location.href = "/news/hfes-aspire-2026-acceptances/";
+              window.location.href = "/news/2026-04-19-hfes-aspire-2026-acceptances/";
             },},{id: "projects-fsdam",
           title: 'FSDAM',
           description: "Explainable driver attention modeling with vision-language learning",
