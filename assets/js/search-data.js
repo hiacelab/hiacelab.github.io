@@ -465,9 +465,9 @@ ninja.data = [{
           description: "Two HiACE Lab lecture presentations accepted to HFES ASPIRE 2026",
           section: "News",handler: () => {
               window.location.href = "/news/2026-04-19-hfes-aspire-2026-acceptances/";
-            },},{id: "projects-fsdam",
-          title: 'FSDAM',
-          description: "Explainable driver attention modeling with vision-language learning",
+            },},{id: "projects-interpretable-driver-attention-modeling",
+          title: 'Interpretable Driver Attention Modeling',
+          description: "Vision-language methods for modeling and interpreting driver attention",
           section: "Projects",handler: () => {
               window.location.href = "/projects/fsdam/";
             },},{id: "projects-icr-drive",
