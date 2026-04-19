@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Acceptance] Two HiACE Lab Papers Accepted to HFES ASPIRE 2026"
+title: "[Publication] Two HiACE Lab Papers Accepted to HFES ASPIRE 2026"
 date: 2026-04-18 12:00:00-0500
 description: Two HiACE Lab lecture presentations accepted to HFES ASPIRE 2026
 img: assets/img/news/hfes_aspire_2026.jpg
