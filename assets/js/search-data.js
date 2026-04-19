@@ -470,9 +470,9 @@ ninja.data = [{
           description: "Vision-language methods for modeling and interpreting driver attention",
           section: "Projects",handler: () => {
               window.location.href = "/projects/fsdam/";
-            },},{id: "projects-icr-drive",
-          title: 'ICR-Drive',
-          description: "Instruction Counterfactual Robustness for End-to-End Language-Driven Autonomous Driving",
+            },},{id: "projects-vision-language-action-driving",
+          title: 'Vision-Language-Action Driving',
+          description: "Vision-language-action models for autonomous driving",
           section: "Projects",handler: () => {
               window.location.href = "/projects/icrdrive/";
             },},{id: "teachings-data-science-fundamentals",
