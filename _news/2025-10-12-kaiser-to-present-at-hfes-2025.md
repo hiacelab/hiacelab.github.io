@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "[Presentation] Kaiser Hamid to Present at the 69th HFES International Annual Meeting"
-date: 2025-10-12 12:00:00-0500
+title: "[Acceptance] Kaiser Hamid to Present at the 69th HFES International Annual Meeting"
+date: 2025-08-12 12:00:00-0500
 description: Upcoming HFES 2025 presentation by Kaiser Hamid
 img: assets/img/news/kaiser_hfes_2025.jpg
 related_posts: false
