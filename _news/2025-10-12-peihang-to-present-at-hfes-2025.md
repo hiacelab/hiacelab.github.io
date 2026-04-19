@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Presentation] Peihang Li to Present at the 69th HFES International Annual Meeting"
+title: "[Acceptance] Peihang Li to Present at the 69th HFES International Annual Meeting"
 date: 2025-10-12 12:00:00-0500
 description: Upcoming HFES 2025 presentation by Peihang Li
 img: assets/img/news/peihang_hfes_2025.jpg
