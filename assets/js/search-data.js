@@ -460,8 +460,8 @@ ninja.data = [{
           description: "Two HiACE Lab lecture presentations accepted to HFES ASPIRE 2026",
           section: "News",handler: () => {
               window.location.href = "/news/2026-04-19-hfes-aspire-2026-acceptances/";
-            },},{id: "news-fsdam-accepted-at-wacv-2027",
-          title: 'FSDAM Accepted at WACV 2027',
+            },},{id: "news-publication-fsdam-accepted-at-wacv-2027",
+          title: '[Publication] FSDAM Accepted at WACV 2027',
           description: "FSDAM accepted at the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-13-fsdam-preprint/";
