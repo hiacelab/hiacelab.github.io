@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FSDAM Accepted at WACV 2027"
+title: "[Publication] FSDAM Accepted at WACV 2027"
 date: 2026-08-10 12:00:00-0500
 description: FSDAM accepted at the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
 img: assets/img/news/fsdam_preprint_2026.jpg
