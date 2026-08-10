@@ -450,11 +450,6 @@ ninja.data = [{
           description: "HiACE Lab spotlight at Texas Tech Engineering Research Day",
           section: "News",handler: () => {
               window.location.href = "/news/2026-02-10-engineering-research-day/";
-            },},{id: "news-preprint-fsdam-few-shot-driver-attention-modeling",
-          title: '[Preprint] FSDAM — Few-Shot Driver Attention Modeling',
-          description: "New preprint and project page for FSDAM",
-          section: "News",handler: () => {
-              window.location.href = "/news/2026-03-13-fsdam-preprint/";
             },},{id: "news-publication-icr-drive-accepted-to-cvpr-2026-workshop",
           title: '[Publication] ICR-Drive Accepted to CVPR 2026 Workshop',
           description: "ICR-Drive accepted to CVPR 2026 Workshop on Deployment of Foundation Models for Embodied AI",
@@ -465,6 +460,11 @@ ninja.data = [{
           description: "Two HiACE Lab lecture presentations accepted to HFES ASPIRE 2026",
           section: "News",handler: () => {
               window.location.href = "/news/2026-04-19-hfes-aspire-2026-acceptances/";
+            },},{id: "news-fsdam-accepted-at-wacv-2027",
+          title: 'FSDAM Accepted at WACV 2027',
+          description: "FSDAM accepted at the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-03-13-fsdam-preprint/";
             },},{id: "projects-interpretable-driver-attention-modeling",
           title: 'Interpretable Driver Attention Modeling',
           description: "Vision-language methods for modeling and interpreting driver attention",
