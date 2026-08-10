@@ -1,5 +1,8 @@
 Aninda Kumar Chowdhury is a PhD student in Industrial Engineering at Texas Tech University. His academic background combines engineering analysis, computational modeling, and numerical problem solving, with earlier training at the Bangladesh University of Engineering and Technology and graduate study at Rochester Institute of Technology. 
+
 His current preparation focuses on the cognitive side of human factors and the fine-tuning of vision-language models. He is also developing stronger familiarity with terminal-based workflows and high-performance computing resources for running large-scale code and experiments. More broadly, he is interested in how intelligent systems can be designed to support human understanding, decision-making, and reliable interaction.
+
 Outside research, he enjoys playing flight simulator with real-time ATC, taking walks in nature, and learning the guitar.
+
 **Links**  
 <a href="https://www.linkedin.com/in/anindakumar-csca" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
