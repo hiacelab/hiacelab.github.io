@@ -18,7 +18,3 @@ Our work spans both human-centered studies and computer vision approaches to ris
 Peihang Li, Nade Liang  
 *In Proceedings of the Human Factors and Ergonomics Society Annual Meeting*, 2025.
 
-**CoRE: Coarse-to-Fine Risk Evidence Learning**  
-Kaiser Hamid, Nade Liang
-
-Ongoing research on weakly supervised learning of temporal and object-level risk evidence from driving videos.
