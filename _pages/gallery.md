@@ -11,17 +11,57 @@ nav_order: 6
 
   <div class="gallery-item">
     {% include figure.liquid
-      path="assets/img/gallery/hfes_2025.jpg"
+      path="assets/img/gallery/cvpr_2026.jpg"
       class="img-fluid rounded z-depth-1"
       zoomable=true
-      alt="HiACE Lab at HFES 2025"
-      caption="HiACE Lab presenting our research at HFES 2025."
+      alt="ICR-Drive poster presentation at CVPR 2026"
+      caption="Presenting ICR-Drive at the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026) in Denver, Colorado."
     %}
   </div>
 
   <div class="gallery-item">
     {% include figure.liquid
-      path="assets/img/gallery/trb_2026.jpg"
+      path="assets/img/gallery/lab_lunch_spring26.jpg"
+      class="img-fluid rounded z-depth-1"
+      zoomable=true
+      alt="HiACE Lab lunch in Spring 2026"
+      caption="HiACE Lab lunch, Spring 2026."
+    %}
+  </div>
+
+  <div class="gallery-item">
+    {% include figure.liquid
+      path="assets/img/gallery/research_day_kaiser.jpg"
+      class="img-fluid rounded z-depth-1"
+      zoomable=true
+      alt="FSDAM poster presentation at Texas Tech University Research Day"
+      caption="Presenting FSDAM: Few-Shot Driver Attention Modeling via Vision-Language Coupling at Texas Tech University Research Day."
+    %}
+  </div>
+
+  <div class="gallery-item">
+    {% include figure.liquid
+      path="assets/img/gallery/research_day_li.jpg"
+      class="img-fluid rounded z-depth-1"
+      zoomable=true
+      alt="Risk perception research poster at Texas Tech University Research Day"
+      caption="Presenting research on driver risk perception and traffic-density transitions at Texas Tech University Research Day."
+    %}
+  </div>
+
+  <div class="gallery-item">
+    {% include figure.liquid
+      path="assets/img/gallery/training_av_sim.jpg"
+      class="img-fluid rounded z-depth-1"
+      zoomable=true
+      alt="Autonomous driving simulator training in the HiACE Lab"
+      caption="Hands-on training with the autonomous driving simulator in the HiACE Lab."
+    %}
+  </div>
+
+  <div class="gallery-item">
+    {% include figure.liquid
+      path="assets/img/gallery/trb_2026.JPG"
       class="img-fluid rounded z-depth-1"
       zoomable=true
       alt="HiACE Lab at TRB 2026"
@@ -29,38 +69,23 @@ nav_order: 6
     %}
   </div>
 
-  <div class="gallery-item">
-    {% include figure.liquid
-      path="assets/img/gallery/lab_meeting_2026.jpg"
-      class="img-fluid rounded z-depth-1"
-      zoomable=true
-      alt="HiACE Lab research meeting"
-      caption="A research meeting at the HiACE Lab, Texas Tech University."
-    %}
-  </div>
-
-  <div class="gallery-item">
-    {% include figure.liquid
-      path="assets/img/gallery/group_photo_2026.jpg"
-      class="img-fluid rounded z-depth-1"
-      zoomable=true
-      alt="HiACE Lab group photo"
-      caption="HiACE Lab group photo, Texas Tech University."
-    %}
-  </div>
-
 </div>
 
 <style>
+
 .hiace-gallery {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 28px 22px;
+  column-count: 2;
+  column-gap: 24px;
   margin-top: 1.5rem;
 }
 
 .gallery-item {
-  min-width: 0;
+  display: inline-block;
+  width: 100%;
+  margin: 0 0 28px;
+  break-inside: avoid;
+  -webkit-column-break-inside: avoid;
+  page-break-inside: avoid;
 }
 
 .gallery-item figure {
@@ -68,13 +93,15 @@ nav_order: 6
 }
 
 .gallery-item img {
+  display: block;
   width: 100%;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
+  height: auto;
+  border-radius: 6px;
 }
 
 .gallery-item .caption {
   margin-top: 8px;
+  padding: 0 4px;
   font-size: 0.9rem;
   line-height: 1.4;
   text-align: center;
@@ -82,7 +109,8 @@ nav_order: 6
 
 @media (max-width: 768px) {
   .hiace-gallery {
-    grid-template-columns: 1fr;
+    column-count: 1;
   }
 }
+
 </style>
