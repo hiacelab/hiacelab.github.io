@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
+        },{id: "nav-gallery",
+          title: "gallery",
+          description: "moments from the HiACE Lab",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/gallery/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
