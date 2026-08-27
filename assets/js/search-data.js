@@ -465,6 +465,11 @@ ninja.data = [{
           description: "FSDAM accepted at the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-13-fsdam-preprint/";
+            },},{id: "news-preprint-core-weakly-supervised-coarse-to-fine-risk-evidence-learning-in-driving-videos",
+          title: '[Preprint] CoRE: Weakly Supervised Coarse-to-Fine Risk Evidence Learning in Driving Videos',
+          description: "CoRE introduces weakly supervised coarse-to-fine risk evidence learning in driving videos",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-08-26-core-preprint/";
             },},{id: "projects-interpretable-driver-attention-modeling",
           title: 'Interpretable Driver Attention Modeling',
           description: "Vision-language methods for modeling and interpreting driver attention",
