@@ -477,9 +477,9 @@ ninja.data = [{
           description: "CoRE introduces weakly supervised coarse-to-fine risk evidence learning in driving videos",
           section: "News",handler: () => {
               window.location.href = "/news/2026-08-26-core-preprint/";
-            },},{id: "news-when2talk-preprint",
-          title: 'When2talk Preprint',
-          description: "",
+            },},{id: "news-preprint-when2talk-when-should-a-proactive-in-car-agent-talk",
+          title: '[Preprint] When2Talk: When Should a Proactive In-Car Agent Talk?',
+          description: "When2Talk studies when proactive in-car agents should communicate with passengers during autonomous driving",
           section: "News",handler: () => {
               window.location.href = "/news/2026-09-11-when2talk-preprint/";
             },},{id: "projects-interpretable-driver-attention-modeling",
