@@ -4,7 +4,7 @@ layout: post
 title: "[Preprint] When2Talk: When Should a Proactive In-Car Agent Talk?"
 date: 2026-09-11 12:00:00-0500
 description: When2Talk studies when proactive in-car agents should communicate with passengers during autonomous driving
-img: assets/img/news/when2talk_preprint_2026.jpg
+img: assets/img/news/when2talk.png
 related_posts: false
 ---
 
