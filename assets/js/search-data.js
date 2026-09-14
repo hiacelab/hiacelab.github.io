@@ -477,6 +477,11 @@ ninja.data = [{
           description: "CoRE introduces weakly supervised coarse-to-fine risk evidence learning in driving videos",
           section: "News",handler: () => {
               window.location.href = "/news/2026-08-26-core-preprint/";
+            },},{id: "news-when2talk-preprint",
+          title: 'When2talk Preprint',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-09-11-when2talk-preprint/";
             },},{id: "projects-interpretable-driver-attention-modeling",
           title: 'Interpretable Driver Attention Modeling',
           description: "Vision-language methods for modeling and interpreting driver attention",
