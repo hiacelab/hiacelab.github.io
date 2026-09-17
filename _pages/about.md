@@ -38,4 +38,4 @@ Recent work from the lab has been presented at venues including <a href="https:/
 
 <p style="color: #b22222;">We welcome motivated students and collaborators who are interested in autonomous driving, human factors, human-AI interaction, and cognitive engineering.</p>
 
-{% include figure.liquid loading="eager" path="assets/img/team_photo.jpg" class="img-fluid rounded z-depth-1" style="width: 60%; margin: 0 auto; display: block;" %}
+{% include figure.liquid loading="eager" path="assets/img/team_photo.JPG" class="img-fluid rounded z-depth-1" style="width: 60%; margin: 0 auto; display: block;" %}
