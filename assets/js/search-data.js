@@ -482,6 +482,11 @@ ninja.data = [{
           description: "When2Talk studies when proactive in-car agents should communicate with passengers during autonomous driving",
           section: "News",handler: () => {
               window.location.href = "/news/2026-09-11-when2talk-preprint/";
+            },},{id: "news-academic-service-kaiser-hamid-joins-two-wacv-2027-workshop-program-committees",
+          title: '[Academic Service] Kaiser Hamid Joins Two WACV 2027 Workshop Program Committees',
+          description: "Program Committee appointments at two WACV 2027 workshops.",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-11-25-wacv2027-program-committee/";
             },},{id: "projects-interpretable-driver-attention-modeling",
           title: 'Interpretable Driver Attention Modeling',
           description: "Vision-language methods for modeling and interpreting driver attention",
