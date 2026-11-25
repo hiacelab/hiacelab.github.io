@@ -486,7 +486,7 @@ ninja.data = [{
           title: '[Academic Service] Kaiser Hamid Joins Two WACV 2027 Workshop Program Committees',
           description: "Program Committee appointments at two WACV 2027 workshops.",
           section: "News",handler: () => {
-              window.location.href = "/news/2026-11-25-wacv2027-program-committee/";
+              window.location.href = "/news/2026-11-24-wacv2027-program-committee/";
             },},{id: "projects-interpretable-driver-attention-modeling",
           title: 'Interpretable Driver Attention Modeling',
           description: "Vision-language methods for modeling and interpreting driver attention",
