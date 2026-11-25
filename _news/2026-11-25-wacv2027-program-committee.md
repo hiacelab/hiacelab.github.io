@@ -1,8 +1,10 @@
+
 ---
 layout: post
 title: "[Academic Service] Kaiser Hamid Joins Two WACV 2027 Workshop Program Committees"
-date: 2026-11-25 12:00:00-0600
+date: 2026-11-24 00:00:00-0600
 description: Kaiser Hamid serves as a Program Committee member for two WACV 2027 workshops.
+inline: false
 related_posts: false
 ---
 
